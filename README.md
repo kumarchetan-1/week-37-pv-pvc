@@ -217,9 +217,6 @@ kubectl logs mongodb
 ✨ **Learn once. Never forget. Build real infra.**  
 🚀 Happy Kubernetes-ing!
 # 🚀 Kubernetes Storage Deep Dive — PV, PVC, NFS, DO Block Storage, EmptyDir & MongoDB  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Storage-blue?logo=kubernetes&style=for-the-badge)
-![Status](https://img.shields.io/badge/Repo-Updated-brightgreen?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Method-Phenomenix-orange?style=for-the-badge)
 
 This repository demonstrates **EVERY major Kubernetes volume type** using a clean, practical file structure.
 
